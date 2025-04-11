@@ -56,7 +56,7 @@
 
 ## 🌐 Contato | Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnaldosantosjr)
+[![LinkedIn](https://www.linkedin.com/in/arnaldosantosjr)]
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:arnaldosantosjr@gmail.com)
 
 ---
