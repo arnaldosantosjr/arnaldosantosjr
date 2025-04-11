@@ -54,10 +54,12 @@
 
 ---
 
+
+
 ## 🌐 Contato | Contact Me
 
-[![LinkedIn](https://www.linkedin.com/in/arnaldosantosjr)]
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:arnaldosantosjr@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnaldo-santos-78b037215)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:arnaldosantosjr01@gmail.com)
 
 ---
 
