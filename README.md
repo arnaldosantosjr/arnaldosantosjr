@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Olá! 👋 Hello! I'm Arnaldo Santos Jr.</h1>
 
 <p align="center">
