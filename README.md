@@ -33,6 +33,7 @@
 ![React](https://img.shields.io/badge/-React-61DBFB?style=flat&logo=react&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-2D2A2E?style=flat&logo=github)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)
 
 ---
 
